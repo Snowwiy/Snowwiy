@@ -65,6 +65,7 @@ Profesional en TI con enfoque en **Ciberseguridad**, **IA aplicada** e **Infraes
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
+
 ---
  
 ## 🚀 Proyectos Técnicos
@@ -99,6 +100,7 @@ Profesional en TI con enfoque en **Ciberseguridad**, **IA aplicada** e **Infraes
     </td>
   </tr>
 </table>
+
 ---
  
 ## 📊 GitHub Stats
@@ -113,6 +115,7 @@ Profesional en TI con enfoque en **Ciberseguridad**, **IA aplicada** e **Infraes
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ravenslg&theme=matrix&no-frame=true&column=6&margin-w=10" />
 </p>
+
 ---
  
 ## 🐍 Contribution Snake
@@ -159,6 +162,7 @@ Profesional en TI con enfoque en **Ciberseguridad**, **IA aplicada** e **Infraes
     <img src="https://img.shields.io/badge/TryHackMe-Snowwiy-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
 </p>
+
 ---
  
 <p align="center">
