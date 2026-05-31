@@ -19,6 +19,7 @@
     Focus   : Offensive Security · OSINT · AI Applied
     Base    : Michoacán, México 🇲🇽
     Status  : [==========] Hacking the learning curve...
+
 ```
  
 ---
