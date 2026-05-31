@@ -18,7 +18,7 @@
   Role    : IT Consultant | Cybersecurity | AI Engineer
   Focus   : Offensive Security · OSINT · AI Applied
   Base    : Michoacán, México 🇲🇽
-  Status  : [██████████] Hacking the learning curve...
+  SStatus  : [==========] Hacking the learning curve...
 ```
  
 ---
@@ -118,19 +118,6 @@ Profesional en TI con enfoque en **Ciberseguridad**, **IA aplicada** e **Infraes
 
 ---
  
-## 🐍 Contribution Snake
- 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ravenslg/Ravenslg/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ravenslg/Ravenslg/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Ravenslg/Ravenslg/output/github-snake.svg" />
-  </picture>
-</p>
-> **⚙️ Para activar la snake:** crea `.github/workflows/snake.yml` → [ver instrucciones](https://github.com/Platane/snk)
- 
----
- 
 ## 📜 Certificaciones & Formación
  
 ```
@@ -165,12 +152,9 @@ Profesional en TI con enfoque en **Ciberseguridad**, **IA aplicada** e **Infraes
 
 ---
  
-<p align="center">
 ```
 > Executing final_protocol.sh...
-[████████████████████] 100%
-✔ Profile loaded successfully.
+[====================] 100%
+> Profile loaded successfully.
 $ _
 ```
- 
-</p>
