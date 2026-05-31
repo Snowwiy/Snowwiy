@@ -104,18 +104,20 @@ Profesional en TI con enfoque en **Ciberseguridad**, **IA aplicada** e **Infraes
 ---
  
 ## 📊 GitHub Stats
- 
+ <!--
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ravenslg&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravenslg&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true" />
 </p>
+-->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Ravenslg&theme=terminal&hide_border=true" />
 </p>
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ravenslg&theme=matrix&no-frame=true&column=6&margin-w=10" />
 </p>
-
+-->
 ---
  
 ## 📜 Certificaciones & Formación
