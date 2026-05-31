@@ -14,11 +14,11 @@
 ┌──(Snowwiy㉿terminal)-[~/profile]
 └─$ cat about_me.txt
  
-  Name    : Brayan de Jesus Gutierrez Miranda
-  Role    : IT Consultant | Cybersecurity | AI Engineer
-  Focus   : Offensive Security · OSINT · AI Applied
-  Base    : Michoacán, México 🇲🇽
-  SStatus  : [==========] Hacking the learning curve...
+    Name    : Brayan de Jesus Gutierrez Miranda
+    Role    : IT Consultant | Cybersecurity | AI Engineer
+    Focus   : Offensive Security · OSINT · AI Applied
+    Base    : Michoacán, México 🇲🇽
+    Status  : [==========] Hacking the learning curve...
 ```
  
 ---
