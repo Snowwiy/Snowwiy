@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20AI-00FF41?style=flat-square&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Michoacán%2C%20México-blue?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
+
 ---
  
 `bash`
