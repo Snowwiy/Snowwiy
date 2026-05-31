@@ -8,7 +8,8 @@
 </p>
 ---
  
-```bash
+`bash`
+```python
 ┌──(Snowwiy㉿terminal)-[~/profile]
 └─$ cat about_me.txt
  
